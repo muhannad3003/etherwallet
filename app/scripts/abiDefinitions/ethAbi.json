@@ -1,6 +1,9 @@
 [
-	{ "name": "Select a contract...", "address": "", "abi": "" },
-	{
+	{ "name":smart coin
+	  "address": "0xe3Bb1fC6b54Be5881b6C2aa3dc4327345B6b2934", 
+	 "abi": "0x6393B70dA138D7967112A1c77ddeAB882630E191"
+	},
+	
 		"name": "WallOfChain - WOC",
 		"address": "0xf9d9702d031407f425a4412682fdc56b07d05262",
 		"comment": "WallOfChain is a collectible token on Ethereum Blockchain.",
